@@ -25,6 +25,7 @@
     '~': 126 - ~
 */
 
+//const assert = require('./assert-mock.js')
 const assert = require('assert')
 const querystring = require('fast-querystring')
 const isRegexSafe = require('safe-regex2')
